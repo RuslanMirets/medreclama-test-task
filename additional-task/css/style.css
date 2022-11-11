@@ -145,7 +145,7 @@ ul {
 }
 .tour__table-wrapper {
 	width: 100%;
-	overflow-x: scroll;
+	overflow-x: auto;
 }
 .tour__table {
 	border-collapse: collapse;
